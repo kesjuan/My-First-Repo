@@ -1,0 +1,2 @@
+This is my first text file from the cmd line.
+This is my second time. 
